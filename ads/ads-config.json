@@ -22,9 +22,16 @@
     "url": "https://vinfast.vn/",
     "order": 4,
     "duration": 5
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/unicornvnn/meo_vat/main/ads/5.jpg?v=20251025",
+    "url": "https://viettel.vn/",
+    "order": 5,
+    "duration": 5
   }
 
 ]
+
 
 
 
